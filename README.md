@@ -27,9 +27,3 @@ Developed during an internship with Team JS Tigers, this vendor management web a
 
 5. **Delete Vendor:** The application allows users to delete vendors after confirming the action, providing a safeguard against accidental deletions.
 
-## Future Enhancements
-
-- Implement role-based access control for different user roles.
-- Add search functionality to quickly find vendors.
-- Improve UI/UX design for better user experience.
-
