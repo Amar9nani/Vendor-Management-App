@@ -13,7 +13,7 @@ Developed during an internship with Team JS Tigers, this vendor management web a
 - Backend:
   - Node.js
   - Express.js
-  - SQL or NoSQL Database Management System (MongoDB, MySQL, etc.)
+  - SQL 
 
 ## Features
 
