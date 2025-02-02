@@ -1,6 +1,6 @@
 # Vendor Management Web App
 
-This project is a vendor management web application developed as part of an internship assignment with Team JS Tigers. The application enables users to manage vendor information efficiently, including adding new vendors, editing existing vendor details, and deleting vendors.
+Developed during an internship with Team JS Tigers, this vendor management web application facilitates seamless handling of vendor information. Users can efficiently add, modify, and remove vendor details, ensuring streamlined management.
 
 ## Technologies Used
 
