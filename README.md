@@ -5,13 +5,13 @@ This project is a vendor management web application developed as part of an inte
 ## Technologies Used
 
 - Frontend:
-  - React.js or Next.js
+  - Next.js
   - HTML
   - CSS
   - JavaScript
 
 - Backend:
-  - Node.js (if using React.js)
+  - Node.js
   - Express.js
   - SQL or NoSQL Database Management System (MongoDB, MySQL, etc.)
 
@@ -27,25 +27,9 @@ This project is a vendor management web application developed as part of an inte
 
 5. **Delete Vendor:** The application allows users to delete vendors after confirming the action, providing a safeguard against accidental deletions.
 
-## Installation and Setup
-
-1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Configure the database connection in the backend.
-4. Start the backend server.
-5. Navigate to the frontend directory.
-6. Start the frontend server.
-
 ## Future Enhancements
 
 - Implement role-based access control for different user roles.
 - Add search functionality to quickly find vendors.
 - Improve UI/UX design for better user experience.
 
-## Contributors
-
-This project was developed by [Your Name].
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
