@@ -1,29 +1,36 @@
-# Vendor Management Web App
+## Vendor Management Web Application
+This web application, built during an internship with Team JS Tigers, is designed to streamline vendor information management. It enables users to efficiently add, update, and delete vendor details, ensuring a well-organized and accessible vendor database.
 
-Developed during an internship with Team JS Tigers, this vendor management web application facilitates seamless handling of vendor information. Users can efficiently add, modify, and remove vendor details, ensuring streamlined management.
-
-## Technologies Used
-
-- Frontend:
-  - Next.js
-  - HTML
-  - CSS
-  - JavaScript
-
-- Backend:
-  - Node.js
-  - Express.js
-  - SQL 
-
-## Features
-
-1. **Google Login & Logout:** Users can securely sign in using their Google accounts and log out when required.
-
-2. **Create Vendor:** Users can add new vendors by filling in mandatory details such as Vendor Name, Bank Account Number, Bank Name, Address, City, Country, and Zip Code.
-
-3. **Display Paginated List of Vendors:** The application displays a paginated list of vendors, showing essential information like Vendor Name, Bank Account Number, and Bank Name. Links for editing or deleting vendors are provided.
-
-4. **Edit Vendor Details:** Users can update vendor information by accessing the edit vendor screen, where existing details are preloaded for easy modification. Changes are saved upon submission.
-
-5. **Delete Vendor:** The application allows users to delete vendors after confirming the action, providing a safeguard against accidental deletions.
-
+## 🛠️Technologies Utilized
+# Frontend
+Next.js
+HTML
+CSS
+JavaScript
+# Backend
+Node.js
+Express.js
+SQL
+## 🚀 Key Features
+🔹 Secure Authentication
+Users can sign in and out securely via Google Login, ensuring protected access to vendor management functionalities.
+🔹 Vendor Creation
+New vendors can be added by entering required details, including:
+Vendor Name
+Bank Account Number
+Bank Name
+Address
+City
+Country
+Zip Code
+## 🔹 Paginated Vendor Listing
+Displays a list of vendors with essential details such as:
+Vendor Name
+Bank Account Number
+Bank Name
+Includes options to edit or remove vendor records for seamless management.
+## 🔹 Update Vendor Information
+Existing vendor details can be modified through an intuitive edit screen.
+The current details are preloaded, allowing users to make updates effortlessly before saving.
+## 🔹 Vendor Removal with Confirmation
+Vendors can be deleted securely with a confirmation prompt to prevent unintended removals.
