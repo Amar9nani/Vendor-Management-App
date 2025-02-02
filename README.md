@@ -1,4 +1,4 @@
-## Vendor Management Web Application
+## 📦 VENDOR MANAGEMENT APP
 This web application, built during an internship with Team JS Tigers, is designed to streamline vendor information management. It enables users to efficiently add, update, and delete vendor details, ensuring a well-organized and accessible vendor database.
 
 ## 🛠️Technologies Utilized
