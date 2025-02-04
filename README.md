@@ -3,7 +3,7 @@ This web application, built during an internship with Team JS Tigers, is designe
 
 ## 🛠️Technologies Utilized
 # Frontend
-Next.js
+React.js
 HTML
 CSS
 JavaScript
